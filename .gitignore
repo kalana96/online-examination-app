@@ -1,0 +1,8 @@
+# Ignore node_modules in frontend
+/online-examination-client/node_modules
+
+# Ignore build files in backend
+/online-examination-server/target
+
+# Ignore environment files
+/.env
