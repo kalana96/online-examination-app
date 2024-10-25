@@ -1,5 +1,3 @@
-# s
-
 # Online Examination System
 
 This is an **Online Examination System** built using **React** for the frontend and **Spring Boot** for the backend.
